@@ -8,3 +8,6 @@ I found this tutorial helpful for getting set up with 433Mhz on the pi:
 https://tutorials-raspberrypi.com/control-raspberry-pi-wireless-sockets-433mhz-tutorial/
 
 
+# Prereqs
+
+- rpi running hassos accessible over SSH
